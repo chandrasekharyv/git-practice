@@ -24,3 +24,8 @@ this is feature-3 commit-4
 
 this is feature-3 commit-5
 
+### git feature-4
+
+this is feature-4 commit-1
+this is feature-4 commit-2
+this is feature-4 commit-3
