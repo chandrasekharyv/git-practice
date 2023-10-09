@@ -32,4 +32,5 @@ this is feature-4 commit-3
 
 ### git feature-6
 
-this is feature-6 commit-1
+this is feature-6 commit-1 </br>
+this is feature-6 commit-2 </br>
